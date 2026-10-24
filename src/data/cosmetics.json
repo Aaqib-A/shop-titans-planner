@@ -1,0 +1,1691 @@
+{
+  "floors": [
+    {
+      "id": "academy_tile",
+      "name": "Academy Tile",
+      "file": "sprites/cosmetics/floors/academy_tile.webp"
+    },
+    {
+      "id": "acorn_jr._flooring",
+      "name": "Acorn Jr. Flooring",
+      "file": "sprites/cosmetics/floors/acorn_jr._flooring.webp"
+    },
+    {
+      "id": "aegir_tiles",
+      "name": "Aegir Tiles",
+      "file": "sprites/cosmetics/floors/aegir_tiles.webp"
+    },
+    {
+      "id": "allan_s_meadow_flooring",
+      "name": "Allan's Meadow Flooring",
+      "file": "sprites/cosmetics/floors/allan_s_meadow_flooring.webp"
+    },
+    {
+      "id": "arcade_floor",
+      "name": "Arcade Floor",
+      "file": "sprites/cosmetics/floors/arcade_floor.webp"
+    },
+    {
+      "id": "arpeggio_floor",
+      "name": "Arpeggio Floor",
+      "file": "sprites/cosmetics/floors/arpeggio_floor.webp"
+    },
+    {
+      "id": "art_deco_floor",
+      "name": "Art Deco Floor",
+      "file": "sprites/cosmetics/floors/art_deco_floor.webp"
+    },
+    {
+      "id": "aureus_tile",
+      "name": "Aureus Tile",
+      "file": "sprites/cosmetics/floors/aureus_tile.webp"
+    },
+    {
+      "id": "autumn_diamond_flooring",
+      "name": "Autumn Diamond Flooring",
+      "file": "sprites/cosmetics/floors/autumn_diamond_flooring.webp"
+    },
+    {
+      "id": "ba_sing_se_s_floors",
+      "name": "Ba Sing Se's Floors",
+      "file": "sprites/cosmetics/floors/ba_sing_se_s_floors.webp"
+    },
+    {
+      "id": "ballroom_tiles",
+      "name": "Ballroom Tiles",
+      "file": "sprites/cosmetics/floors/ballroom_tiles.webp"
+    },
+    {
+      "id": "beachside_flooring",
+      "name": "Beachside Flooring",
+      "file": "sprites/cosmetics/floors/beachside_flooring.webp"
+    },
+    {
+      "id": "beaten_path",
+      "name": "Beaten Path",
+      "file": "sprites/cosmetics/floors/beaten_path.webp"
+    },
+    {
+      "id": "blue_kitty_flooring",
+      "name": "Blue Kitty Flooring",
+      "file": "sprites/cosmetics/floors/blue_kitty_flooring.webp"
+    },
+    {
+      "id": "blue_lucky_mouse_flooring",
+      "name": "Blue Lucky Mouse Flooring",
+      "file": "sprites/cosmetics/floors/blue_lucky_mouse_flooring.webp"
+    },
+    {
+      "id": "blue_moons_flooring",
+      "name": "Blue Moons Flooring",
+      "file": "sprites/cosmetics/floors/blue_moons_flooring.webp"
+    },
+    {
+      "id": "bogolanfini_floor",
+      "name": "Bogolanfini Floor",
+      "file": "sprites/cosmetics/floors/bogolanfini_floor.webp"
+    },
+    {
+      "id": "bronze_heart_flooring",
+      "name": "Bronze Heart Flooring",
+      "file": "sprites/cosmetics/floors/bronze_heart_flooring.webp"
+    },
+    {
+      "id": "bronze_plaque_flooring",
+      "name": "Bronze Plaque Flooring",
+      "file": "sprites/cosmetics/floors/bronze_plaque_flooring.webp"
+    },
+    {
+      "id": "bunny_tiles",
+      "name": "Bunny Tiles",
+      "file": "sprites/cosmetics/floors/bunny_tiles.webp"
+    },
+    {
+      "id": "burgundy_tile",
+      "name": "Burgundy Tile",
+      "file": "sprites/cosmetics/floors/burgundy_tile.webp"
+    },
+    {
+      "id": "bushy_undergrowth_flooring",
+      "name": "Bushy Undergrowth Flooring",
+      "file": "sprites/cosmetics/floors/bushy_undergrowth_flooring.webp"
+    },
+    {
+      "id": "candy_tiles",
+      "name": "Candy Tiles",
+      "file": "sprites/cosmetics/floors/candy_tiles.webp"
+    },
+    {
+      "id": "carrots_n_eggs_flooring",
+      "name": "Carrots n' Eggs Flooring",
+      "file": "sprites/cosmetics/floors/carrots_n_eggs_flooring.webp"
+    },
+    {
+      "id": "carved_maple_flooring",
+      "name": "Carved Maple Flooring",
+      "file": "sprites/cosmetics/floors/carved_maple_flooring.webp"
+    },
+    {
+      "id": "cat_paw_print_flooring",
+      "name": "Cat Paw Print Flooring",
+      "file": "sprites/cosmetics/floors/cat_paw_print_flooring.webp"
+    },
+    {
+      "id": "celestial_tile",
+      "name": "Celestial Tile",
+      "file": "sprites/cosmetics/floors/celestial_tile.webp"
+    },
+    {
+      "id": "checkered_brown_flooring",
+      "name": "Checkered Brown Flooring",
+      "file": "sprites/cosmetics/floors/checkered_brown_flooring.webp"
+    },
+    {
+      "id": "checkered_sepia_flooring",
+      "name": "Checkered Sepia Flooring",
+      "file": "sprites/cosmetics/floors/checkered_sepia_flooring.webp"
+    },
+    {
+      "id": "chile_de_mayo_mild_flooring",
+      "name": "Chile de Mayo (mild) Flooring",
+      "file": "sprites/cosmetics/floors/chile_de_mayo_mild_flooring.webp"
+    },
+    {
+      "id": "chile_de_mayo_flooring",
+      "name": "Chile de Mayo Flooring",
+      "file": "sprites/cosmetics/floors/chile_de_mayo_flooring.webp"
+    },
+    {
+      "id": "chronos_bricks_flooring",
+      "name": "Chronos Bricks Flooring",
+      "file": "sprites/cosmetics/floors/chronos_bricks_flooring.webp"
+    },
+    {
+      "id": "circus_stage_flooring",
+      "name": "Circus Stage Flooring",
+      "file": "sprites/cosmetics/floors/circus_stage_flooring.webp"
+    },
+    {
+      "id": "clear_skies_flooring",
+      "name": "Clear Skies Flooring",
+      "file": "sprites/cosmetics/floors/clear_skies_flooring.webp"
+    },
+    {
+      "id": "clover_tile",
+      "name": "Clover Tile",
+      "file": "sprites/cosmetics/floors/clover_tile.webp"
+    },
+    {
+      "id": "cobblestone_flooring",
+      "name": "Cobblestone Flooring",
+      "file": "sprites/cosmetics/floors/cobblestone_flooring.webp"
+    },
+    {
+      "id": "creaky_floor_boards",
+      "name": "Creaky Floor Boards",
+      "file": "sprites/cosmetics/floors/creaky_floor_boards.webp"
+    },
+    {
+      "id": "crimson_carpet",
+      "name": "Crimson Carpet",
+      "file": "sprites/cosmetics/floors/crimson_carpet.webp"
+    },
+    {
+      "id": "cyan_tile",
+      "name": "Cyan Tile",
+      "file": "sprites/cosmetics/floors/cyan_tile.webp"
+    },
+    {
+      "id": "dapper_diamonds_flooring",
+      "name": "Dapper Diamonds Flooring",
+      "file": "sprites/cosmetics/floors/dapper_diamonds_flooring.webp"
+    },
+    {
+      "id": "dark_crescent_flooring",
+      "name": "Dark Crescent Flooring",
+      "file": "sprites/cosmetics/floors/dark_crescent_flooring.webp"
+    },
+    {
+      "id": "dawn_kitty_flooring",
+      "name": "Dawn Kitty Flooring",
+      "file": "sprites/cosmetics/floors/dawn_kitty_flooring.webp"
+    },
+    {
+      "id": "dawn_pumpkin_flooring",
+      "name": "Dawn Pumpkin Flooring",
+      "file": "sprites/cosmetics/floors/dawn_pumpkin_flooring.webp"
+    },
+    {
+      "id": "desert_rose_tile",
+      "name": "Desert Rose Tile",
+      "file": "sprites/cosmetics/floors/desert_rose_tile.webp"
+    },
+    {
+      "id": "desert_sky_tile",
+      "name": "Desert Sky Tile",
+      "file": "sprites/cosmetics/floors/desert_sky_tile.webp"
+    },
+    {
+      "id": "digging_site_flooring",
+      "name": "Digging Site Flooring",
+      "file": "sprites/cosmetics/floors/digging_site_flooring.webp"
+    },
+    {
+      "id": "dog_paw_print_flooring",
+      "name": "Dog Paw Print Flooring",
+      "file": "sprites/cosmetics/floors/dog_paw_print_flooring.webp"
+    },
+    {
+      "id": "dragon_skies_flooring",
+      "name": "Dragon Skies Flooring",
+      "file": "sprites/cosmetics/floors/dragon_skies_flooring.webp"
+    },
+    {
+      "id": "dunes_flooring",
+      "name": "Dunes Flooring",
+      "file": "sprites/cosmetics/floors/dunes_flooring.webp"
+    },
+    {
+      "id": "dusk_kitty_flooring",
+      "name": "Dusk Kitty Flooring",
+      "file": "sprites/cosmetics/floors/dusk_kitty_flooring.webp"
+    },
+    {
+      "id": "dusk_pumpkin",
+      "name": "Dusk Pumpkin",
+      "file": "sprites/cosmetics/floors/dusk_pumpkin.webp"
+    },
+    {
+      "id": "dustbowl_lands_flooring",
+      "name": "Dustbowl Lands Flooring",
+      "file": "sprites/cosmetics/floors/dustbowl_lands_flooring.webp"
+    },
+    {
+      "id": "elegant_spring_tile",
+      "name": "Elegant Spring Tile",
+      "file": "sprites/cosmetics/floors/elegant_spring_tile.webp"
+    },
+    {
+      "id": "fairy_meadows_flooring",
+      "name": "Fairy Meadows Flooring",
+      "file": "sprites/cosmetics/floors/fairy_meadows_flooring.webp"
+    },
+    {
+      "id": "fire_lord_s_floor",
+      "name": "Fire Lord's Floor",
+      "file": "sprites/cosmetics/floors/fire_lord_s_floor.webp"
+    },
+    {
+      "id": "floor_is_lava_flooring",
+      "name": "Floor is Lava Flooring",
+      "file": "sprites/cosmetics/floors/floor_is_lava_flooring.webp"
+    },
+    {
+      "id": "flor_de_mayo_flooring",
+      "name": "Flor de Mayo Flooring",
+      "file": "sprites/cosmetics/floors/flor_de_mayo_flooring.webp"
+    },
+    {
+      "id": "folk_art_tile",
+      "name": "Folk Art Tile",
+      "file": "sprites/cosmetics/floors/folk_art_tile.webp"
+    },
+    {
+      "id": "fortune_s_diamonds_flooring",
+      "name": "Fortune's Diamonds Flooring",
+      "file": "sprites/cosmetics/floors/fortune_s_diamonds_flooring.webp"
+    },
+    {
+      "id": "fresh_snowfall_flooring",
+      "name": "Fresh Snowfall Flooring",
+      "file": "sprites/cosmetics/floors/fresh_snowfall_flooring.webp"
+    },
+    {
+      "id": "gaia_s_tile",
+      "name": "Gaia's Tile",
+      "file": "sprites/cosmetics/floors/gaia_s_tile.webp"
+    },
+    {
+      "id": "gift-wrapped_flooring",
+      "name": "Gift-Wrapped Flooring",
+      "file": "sprites/cosmetics/floors/gift-wrapped_flooring.webp"
+    },
+    {
+      "id": "gold_framed_blue_flooring",
+      "name": "Gold Framed Blue Flooring",
+      "file": "sprites/cosmetics/floors/gold_framed_blue_flooring.webp"
+    },
+    {
+      "id": "gold_framed_red_flooring",
+      "name": "Gold Framed Red Flooring",
+      "file": "sprites/cosmetics/floors/gold_framed_red_flooring.webp"
+    },
+    {
+      "id": "gold_framed_white_flooring",
+      "name": "Gold Framed White Flooring",
+      "file": "sprites/cosmetics/floors/gold_framed_white_flooring.webp"
+    },
+    {
+      "id": "gold_knot_tile",
+      "name": "Gold Knot Tile",
+      "file": "sprites/cosmetics/floors/gold_knot_tile.webp"
+    },
+    {
+      "id": "gold_star_blue_flooring",
+      "name": "Gold Star Blue Flooring",
+      "file": "sprites/cosmetics/floors/gold_star_blue_flooring.webp"
+    },
+    {
+      "id": "gold_star_red_flooring",
+      "name": "Gold Star Red Flooring",
+      "file": "sprites/cosmetics/floors/gold_star_red_flooring.webp"
+    },
+    {
+      "id": "gold_star_white_flooring",
+      "name": "Gold Star White Flooring",
+      "file": "sprites/cosmetics/floors/gold_star_white_flooring.webp"
+    },
+    {
+      "id": "golden_batkin_flooring",
+      "name": "Golden Batkin Flooring",
+      "file": "sprites/cosmetics/floors/golden_batkin_flooring.webp"
+    },
+    {
+      "id": "golden_feather_flooring",
+      "name": "Golden Feather Flooring",
+      "file": "sprites/cosmetics/floors/golden_feather_flooring.webp"
+    },
+    {
+      "id": "golden_marble_flooring",
+      "name": "Golden Marble Flooring",
+      "file": "sprites/cosmetics/floors/golden_marble_flooring.webp"
+    },
+    {
+      "id": "goldenstone_flooring",
+      "name": "Goldenstone Flooring",
+      "file": "sprites/cosmetics/floors/goldenstone_flooring.webp"
+    },
+    {
+      "id": "great_acorn_flooring",
+      "name": "Great Acorn Flooring",
+      "file": "sprites/cosmetics/floors/great_acorn_flooring.webp"
+    },
+    {
+      "id": "green_diamond_flooring",
+      "name": "Green Diamond Flooring",
+      "file": "sprites/cosmetics/floors/green_diamond_flooring.webp"
+    },
+    {
+      "id": "green_kitty_flooring",
+      "name": "Green Kitty Flooring",
+      "file": "sprites/cosmetics/floors/green_kitty_flooring.webp"
+    },
+    {
+      "id": "green_lucky_mouse_flooring",
+      "name": "Green Lucky Mouse Flooring",
+      "file": "sprites/cosmetics/floors/green_lucky_mouse_flooring.webp"
+    },
+    {
+      "id": "green_mistletoe_flooring",
+      "name": "Green Mistletoe Flooring",
+      "file": "sprites/cosmetics/floors/green_mistletoe_flooring.webp"
+    },
+    {
+      "id": "green_moons_flooring",
+      "name": "Green Moons Flooring",
+      "file": "sprites/cosmetics/floors/green_moons_flooring.webp"
+    },
+    {
+      "id": "green_panel_flooring",
+      "name": "Green Panel Flooring",
+      "file": "sprites/cosmetics/floors/green_panel_flooring.webp"
+    },
+    {
+      "id": "gummy_tiles_flooring",
+      "name": "Gummy Tiles Flooring",
+      "file": "sprites/cosmetics/floors/gummy_tiles_flooring.webp"
+    },
+    {
+      "id": "hardwood_flooring",
+      "name": "Hardwood Flooring",
+      "file": "sprites/cosmetics/floors/hardwood_flooring.webp"
+    },
+    {
+      "id": "haunted_flooring",
+      "name": "Haunted Flooring",
+      "file": "sprites/cosmetics/floors/haunted_flooring.webp"
+    },
+    {
+      "id": "heart_stacks_flooring",
+      "name": "Heart Stacks Flooring",
+      "file": "sprites/cosmetics/floors/heart_stacks_flooring.webp"
+    },
+    {
+      "id": "hexwood_pentagram_flooring",
+      "name": "Hexwood (Pentagram) Flooring",
+      "file": "sprites/cosmetics/floors/hexwood_pentagram_flooring.webp"
+    },
+    {
+      "id": "hexwood_flooring",
+      "name": "Hexwood Flooring",
+      "file": "sprites/cosmetics/floors/hexwood_flooring.webp"
+    },
+    {
+      "id": "holiday_spirit_flooring",
+      "name": "Holiday Spirit Flooring",
+      "file": "sprites/cosmetics/floors/holiday_spirit_flooring.webp"
+    },
+    {
+      "id": "honeycombs_flooring",
+      "name": "Honeycombs Flooring",
+      "file": "sprites/cosmetics/floors/honeycombs_flooring.webp"
+    },
+    {
+      "id": "ice_queen_s_crystal_flooring",
+      "name": "Ice Queen's Crystal Flooring",
+      "file": "sprites/cosmetics/floors/ice_queen_s_crystal_flooring.webp"
+    },
+    {
+      "id": "jeweled_step_flooring",
+      "name": "Jeweled Step Flooring",
+      "file": "sprites/cosmetics/floors/jeweled_step_flooring.webp"
+    },
+    {
+      "id": "late_harvest_flooring",
+      "name": "Late Harvest Flooring",
+      "file": "sprites/cosmetics/floors/late_harvest_flooring.webp"
+    },
+    {
+      "id": "lavender_lucky_mouse_flooring",
+      "name": "Lavender Lucky Mouse Flooring",
+      "file": "sprites/cosmetics/floors/lavender_lucky_mouse_flooring.webp"
+    },
+    {
+      "id": "leafy_undergrowth_flooring",
+      "name": "Leafy Undergrowth Flooring",
+      "file": "sprites/cosmetics/floors/leafy_undergrowth_flooring.webp"
+    },
+    {
+      "id": "leather_straps_flooring",
+      "name": "Leather Straps Flooring",
+      "file": "sprites/cosmetics/floors/leather_straps_flooring.webp"
+    },
+    {
+      "id": "leaves_bundle_flooring",
+      "name": "Leaves Bundle Flooring",
+      "file": "sprites/cosmetics/floors/leaves_bundle_flooring.webp"
+    },
+    {
+      "id": "lilac_pastel_flooring",
+      "name": "Lilac Pastel Flooring",
+      "file": "sprites/cosmetics/floors/lilac_pastel_flooring.webp"
+    },
+    {
+      "id": "lotus_tiles",
+      "name": "Lotus Tiles",
+      "file": "sprites/cosmetics/floors/lotus_tiles.webp"
+    },
+    {
+      "id": "lovely_tiles",
+      "name": "Lovely Tiles",
+      "file": "sprites/cosmetics/floors/lovely_tiles.webp"
+    },
+    {
+      "id": "lunar_new_year_flooring",
+      "name": "Lunar New Year Flooring",
+      "file": "sprites/cosmetics/floors/lunar_new_year_flooring.webp"
+    },
+    {
+      "id": "lunar_tile",
+      "name": "Lunar Tile",
+      "file": "sprites/cosmetics/floors/lunar_tile.webp"
+    },
+    {
+      "id": "luxurious_floor",
+      "name": "Luxurious Floor",
+      "file": "sprites/cosmetics/floors/luxurious_floor.webp"
+    },
+    {
+      "id": "majestic_flooring",
+      "name": "Majestic Flooring",
+      "file": "sprites/cosmetics/floors/majestic_flooring.webp"
+    },
+    {
+      "id": "mechtalic_tile",
+      "name": "Mechtalic Tile",
+      "file": "sprites/cosmetics/floors/mechtalic_tile.webp"
+    },
+    {
+      "id": "moontouched_tile",
+      "name": "Moontouched Tile",
+      "file": "sprites/cosmetics/floors/moontouched_tile.webp"
+    },
+    {
+      "id": "mundra_s_tile",
+      "name": "Mundra's Tile",
+      "file": "sprites/cosmetics/floors/mundra_s_tile.webp"
+    },
+    {
+      "id": "nesting_grounds_flooring",
+      "name": "Nesting Grounds Flooring",
+      "file": "sprites/cosmetics/floors/nesting_grounds_flooring.webp"
+    },
+    {
+      "id": "new_year_s_carpet",
+      "name": "New Year's Carpet",
+      "file": "sprites/cosmetics/floors/new_year_s_carpet.webp"
+    },
+    {
+      "id": "nine_seas_tile",
+      "name": "Nine Seas Tile",
+      "file": "sprites/cosmetics/floors/nine_seas_tile.webp"
+    },
+    {
+      "id": "office_rugs",
+      "name": "Office Rugs",
+      "file": "sprites/cosmetics/floors/office_rugs.webp"
+    },
+    {
+      "id": "opulent_floor",
+      "name": "Opulent Floor",
+      "file": "sprites/cosmetics/floors/opulent_floor.webp"
+    },
+    {
+      "id": "orange_moon_flooring",
+      "name": "Orange Moon Flooring",
+      "file": "sprites/cosmetics/floors/orange_moon_flooring.webp"
+    },
+    {
+      "id": "orchid_path",
+      "name": "Orchid Path",
+      "file": "sprites/cosmetics/floors/orchid_path.webp"
+    },
+    {
+      "id": "pastel_floorboard",
+      "name": "Pastel Floorboard",
+      "file": "sprites/cosmetics/floors/pastel_floorboard.webp"
+    },
+    {
+      "id": "patterned_blue_flooring",
+      "name": "Patterned Blue Flooring",
+      "file": "sprites/cosmetics/floors/patterned_blue_flooring.webp"
+    },
+    {
+      "id": "patterned_green_flooring",
+      "name": "Patterned Green Flooring",
+      "file": "sprites/cosmetics/floors/patterned_green_flooring.webp"
+    },
+    {
+      "id": "peachy_floor",
+      "name": "Peachy Floor",
+      "file": "sprites/cosmetics/floors/peachy_floor.webp"
+    },
+    {
+      "id": "peppermint_flooring",
+      "name": "Peppermint Flooring",
+      "file": "sprites/cosmetics/floors/peppermint_flooring.webp"
+    },
+    {
+      "id": "piano_keys_flooring",
+      "name": "Piano Keys Flooring",
+      "file": "sprites/cosmetics/floors/piano_keys_flooring.webp"
+    },
+    {
+      "id": "platinum_tiles",
+      "name": "Platinum Tiles",
+      "file": "sprites/cosmetics/floors/platinum_tiles.webp"
+    },
+    {
+      "id": "premium_star_flooring",
+      "name": "Premium Star Flooring",
+      "file": "sprites/cosmetics/floors/premium_star_flooring.webp"
+    },
+    {
+      "id": "puebla_tiles",
+      "name": "Puebla Tiles",
+      "file": "sprites/cosmetics/floors/puebla_tiles.webp"
+    },
+    {
+      "id": "purple_lucky_mouse_flooring",
+      "name": "Purple Lucky Mouse Flooring",
+      "file": "sprites/cosmetics/floors/purple_lucky_mouse_flooring.webp"
+    },
+    {
+      "id": "purple_panel_flooring",
+      "name": "Purple Panel Flooring",
+      "file": "sprites/cosmetics/floors/purple_panel_flooring.webp"
+    },
+    {
+      "id": "quillwork_carpeting",
+      "name": "Quillwork Carpeting",
+      "file": "sprites/cosmetics/floors/quillwork_carpeting.webp"
+    },
+    {
+      "id": "red_diamond_flooring",
+      "name": "Red Diamond Flooring",
+      "file": "sprites/cosmetics/floors/red_diamond_flooring.webp"
+    },
+    {
+      "id": "red_lucky_mouse_flooring",
+      "name": "Red Lucky Mouse Flooring",
+      "file": "sprites/cosmetics/floors/red_lucky_mouse_flooring.webp"
+    },
+    {
+      "id": "red_mistletoe_flooring",
+      "name": "Red Mistletoe Flooring",
+      "file": "sprites/cosmetics/floors/red_mistletoe_flooring.webp"
+    },
+    {
+      "id": "regal_floor",
+      "name": "Regal Floor",
+      "file": "sprites/cosmetics/floors/regal_floor.webp"
+    },
+    {
+      "id": "retro_carpet",
+      "name": "Retro Carpet",
+      "file": "sprites/cosmetics/floors/retro_carpet.webp"
+    },
+    {
+      "id": "rough_stone_flooring",
+      "name": "Rough Stone Flooring",
+      "file": "sprites/cosmetics/floors/rough_stone_flooring.webp"
+    },
+    {
+      "id": "saltillo_tile",
+      "name": "Saltillo Tile",
+      "file": "sprites/cosmetics/floors/saltillo_tile.webp"
+    },
+    {
+      "id": "sandswept_ground_flooring",
+      "name": "Sandswept Ground Flooring",
+      "file": "sprites/cosmetics/floors/sandswept_ground_flooring.webp"
+    },
+    {
+      "id": "scattered_roses_flooring",
+      "name": "Scattered Roses Flooring",
+      "file": "sprites/cosmetics/floors/scattered_roses_flooring.webp"
+    },
+    {
+      "id": "seashell_sands_flooring",
+      "name": "Seashell Sands Flooring",
+      "file": "sprites/cosmetics/floors/seashell_sands_flooring.webp"
+    },
+    {
+      "id": "shamrock_field_flooring",
+      "name": "Shamrock Field Flooring",
+      "file": "sprites/cosmetics/floors/shamrock_field_flooring.webp"
+    },
+    {
+      "id": "silver_framed_blue_flooring",
+      "name": "Silver Framed Blue Flooring",
+      "file": "sprites/cosmetics/floors/silver_framed_blue_flooring.webp"
+    },
+    {
+      "id": "silver_framed_red_flooring",
+      "name": "Silver Framed Red Flooring",
+      "file": "sprites/cosmetics/floors/silver_framed_red_flooring.webp"
+    },
+    {
+      "id": "silver_framed_white_flooring",
+      "name": "Silver Framed White Flooring",
+      "file": "sprites/cosmetics/floors/silver_framed_white_flooring.webp"
+    },
+    {
+      "id": "silver_star_blue_flooring",
+      "name": "Silver Star Blue Flooring",
+      "file": "sprites/cosmetics/floors/silver_star_blue_flooring.webp"
+    },
+    {
+      "id": "silver_star_red_flooring",
+      "name": "Silver Star Red Flooring",
+      "file": "sprites/cosmetics/floors/silver_star_red_flooring.webp"
+    },
+    {
+      "id": "silver_star_white_flooring",
+      "name": "Silver Star White Flooring",
+      "file": "sprites/cosmetics/floors/silver_star_white_flooring.webp"
+    },
+    {
+      "id": "slippery_ice_flooring",
+      "name": "Slippery Ice Flooring",
+      "file": "sprites/cosmetics/floors/slippery_ice_flooring.webp"
+    },
+    {
+      "id": "smithy_s_floor",
+      "name": "Smithy's Floor",
+      "file": "sprites/cosmetics/floors/smithy_s_floor.webp"
+    },
+    {
+      "id": "snowblown_carpet",
+      "name": "Snowblown Carpet",
+      "file": "sprites/cosmetics/floors/snowblown_carpet.webp"
+    },
+    {
+      "id": "snowflake_flooring",
+      "name": "Snowflake Flooring",
+      "file": "sprites/cosmetics/floors/snowflake_flooring.webp"
+    },
+    {
+      "id": "sondra_s_tile",
+      "name": "Sondra's Tile",
+      "file": "sprites/cosmetics/floors/sondra_s_tile.webp"
+    },
+    {
+      "id": "soulbound_tiles",
+      "name": "Soulbound Tiles",
+      "file": "sprites/cosmetics/floors/soulbound_tiles.webp"
+    },
+    {
+      "id": "sparse_leaves_flooring",
+      "name": "Sparse Leaves Flooring",
+      "file": "sprites/cosmetics/floors/sparse_leaves_flooring.webp"
+    },
+    {
+      "id": "standard_flooring",
+      "name": "Standard Flooring",
+      "file": "sprites/cosmetics/floors/standard_flooring.webp"
+    },
+    {
+      "id": "sticky_syrup_flooring",
+      "name": "Sticky Syrup Flooring",
+      "file": "sprites/cosmetics/floors/sticky_syrup_flooring.webp"
+    },
+    {
+      "id": "still_life_flooring",
+      "name": "Still Life Flooring",
+      "file": "sprites/cosmetics/floors/still_life_flooring.webp"
+    },
+    {
+      "id": "sultan_pattern_flooring",
+      "name": "Sultan Pattern Flooring",
+      "file": "sprites/cosmetics/floors/sultan_pattern_flooring.webp"
+    },
+    {
+      "id": "swamp_lilypads_flooring",
+      "name": "Swamp Lilypads Flooring",
+      "file": "sprites/cosmetics/floors/swamp_lilypads_flooring.webp"
+    },
+    {
+      "id": "tatami_mat_flooring",
+      "name": "Tatami Mat Flooring",
+      "file": "sprites/cosmetics/floors/tatami_mat_flooring.webp"
+    },
+    {
+      "id": "tomb_tiles",
+      "name": "Tomb Tiles",
+      "file": "sprites/cosmetics/floors/tomb_tiles.webp"
+    },
+    {
+      "id": "trigonal_tile",
+      "name": "Trigonal Tile",
+      "file": "sprites/cosmetics/floors/trigonal_tile.webp"
+    },
+    {
+      "id": "true_north_floor",
+      "name": "True North Floor",
+      "file": "sprites/cosmetics/floors/true_north_floor.webp"
+    },
+    {
+      "id": "turquoise_pastel_flooring",
+      "name": "Turquoise Pastel Flooring",
+      "file": "sprites/cosmetics/floors/turquoise_pastel_flooring.webp"
+    },
+    {
+      "id": "tweety_tracks_flooring",
+      "name": "Tweety Tracks Flooring",
+      "file": "sprites/cosmetics/floors/tweety_tracks_flooring.webp"
+    },
+    {
+      "id": "twilight_tile",
+      "name": "Twilight Tile",
+      "file": "sprites/cosmetics/floors/twilight_tile.webp"
+    },
+    {
+      "id": "tyrant_tile",
+      "name": "Tyrant Tile",
+      "file": "sprites/cosmetics/floors/tyrant_tile.webp"
+    },
+    {
+      "id": "waffle-stuffed_flooring",
+      "name": "Waffle-stuffed Flooring",
+      "file": "sprites/cosmetics/floors/waffle-stuffed_flooring.webp"
+    },
+    {
+      "id": "wiccan_meadows_flooring",
+      "name": "Wiccan Meadows Flooring",
+      "file": "sprites/cosmetics/floors/wiccan_meadows_flooring.webp"
+    },
+    {
+      "id": "winter_cabin_flooring",
+      "name": "Winter Cabin Flooring",
+      "file": "sprites/cosmetics/floors/winter_cabin_flooring.webp"
+    },
+    {
+      "id": "wooden_rose_flooring",
+      "name": "Wooden Rose Flooring",
+      "file": "sprites/cosmetics/floors/wooden_rose_flooring.webp"
+    },
+    {
+      "id": "wreath_flooring",
+      "name": "Wreath Flooring",
+      "file": "sprites/cosmetics/floors/wreath_flooring.webp"
+    },
+    {
+      "id": "year_of_the_ox_flooring",
+      "name": "Year of the Ox Flooring",
+      "file": "sprites/cosmetics/floors/year_of_the_ox_flooring.webp"
+    },
+    {
+      "id": "year_of_the_tiger_flooring",
+      "name": "Year of the Tiger Flooring",
+      "file": "sprites/cosmetics/floors/year_of_the_tiger_flooring.webp"
+    },
+    {
+      "id": "yellow_kitty_flooring",
+      "name": "Yellow Kitty Flooring",
+      "file": "sprites/cosmetics/floors/yellow_kitty_flooring.webp"
+    },
+    {
+      "id": "yellow_moons_flooring",
+      "name": "Yellow Moons Flooring",
+      "file": "sprites/cosmetics/floors/yellow_moons_flooring.webp"
+    },
+    {
+      "id": "yellow_pastel_flooring",
+      "name": "Yellow Pastel Flooring",
+      "file": "sprites/cosmetics/floors/yellow_pastel_flooring.webp"
+    },
+    {
+      "id": "zen_garden_sand_flooring",
+      "name": "Zen Garden Sand Flooring",
+      "file": "sprites/cosmetics/floors/zen_garden_sand_flooring.webp"
+    }
+  ],
+  "walls": [
+    {
+      "id": "acorn_arch_wallpaper",
+      "name": "Acorn Arch Wallpaper",
+      "file": "sprites/cosmetics/walls/acorn_arch_wallpaper.webp"
+    },
+    {
+      "id": "aegir_wall",
+      "name": "Aegir Wall",
+      "file": "sprites/cosmetics/walls/aegir_wall.webp"
+    },
+    {
+      "id": "airship_sails_wallpaper",
+      "name": "Airship Sails Wallpaper",
+      "file": "sprites/cosmetics/walls/airship_sails_wallpaper.webp"
+    },
+    {
+      "id": "art_deco_wall",
+      "name": "Art Deco Wall",
+      "file": "sprites/cosmetics/walls/art_deco_wall.webp"
+    },
+    {
+      "id": "aureus_fresco_wallpaper",
+      "name": "Aureus Fresco Wallpaper",
+      "file": "sprites/cosmetics/walls/aureus_fresco_wallpaper.webp"
+    },
+    {
+      "id": "autumnal_print",
+      "name": "Autumnal Print",
+      "file": "sprites/cosmetics/walls/autumnal_print.webp"
+    },
+    {
+      "id": "ba_sing_se_s_walls",
+      "name": "Ba Sing Se's Walls",
+      "file": "sprites/cosmetics/walls/ba_sing_se_s_walls.webp"
+    },
+    {
+      "id": "ballroom_arches_wallpaper",
+      "name": "Ballroom Arches Wallpaper",
+      "file": "sprites/cosmetics/walls/ballroom_arches_wallpaper.webp"
+    },
+    {
+      "id": "blue_kitties_wallpaper",
+      "name": "Blue Kitties Wallpaper",
+      "file": "sprites/cosmetics/walls/blue_kitties_wallpaper.webp"
+    },
+    {
+      "id": "blue_lucky_mouse_wallpaper",
+      "name": "Blue Lucky Mouse Wallpaper",
+      "file": "sprites/cosmetics/walls/blue_lucky_mouse_wallpaper.webp"
+    },
+    {
+      "id": "bogolanfini_wall",
+      "name": "Bogolanfini Wall",
+      "file": "sprites/cosmetics/walls/bogolanfini_wall.webp"
+    },
+    {
+      "id": "borderless_viewport_wallpaper",
+      "name": "Borderless Viewport Wallpaper",
+      "file": "sprites/cosmetics/walls/borderless_viewport_wallpaper.webp"
+    },
+    {
+      "id": "brickbroken_wallpaper",
+      "name": "Brickbroken Wallpaper",
+      "file": "sprites/cosmetics/walls/brickbroken_wallpaper.webp"
+    },
+    {
+      "id": "bunbun_arch_wallpaper",
+      "name": "Bunbun Arch Wallpaper",
+      "file": "sprites/cosmetics/walls/bunbun_arch_wallpaper.webp"
+    },
+    {
+      "id": "bunbun_garden_wallpaper",
+      "name": "Bunbun Garden Wallpaper",
+      "file": "sprites/cosmetics/walls/bunbun_garden_wallpaper.webp"
+    },
+    {
+      "id": "bunny_print",
+      "name": "Bunny Print",
+      "file": "sprites/cosmetics/walls/bunny_print.webp"
+    },
+    {
+      "id": "busy_beehive_wallpaper",
+      "name": "Busy Beehive Wallpaper",
+      "file": "sprites/cosmetics/walls/busy_beehive_wallpaper.webp"
+    },
+    {
+      "id": "by_the_sea_wallpaper",
+      "name": "By The Sea Wallpaper",
+      "file": "sprites/cosmetics/walls/by_the_sea_wallpaper.webp"
+    },
+    {
+      "id": "cabin_lights_wallpaper",
+      "name": "Cabin Lights Wallpaper",
+      "file": "sprites/cosmetics/walls/cabin_lights_wallpaper.webp"
+    },
+    {
+      "id": "cabin_windows_wallpaper",
+      "name": "Cabin Windows Wallpaper",
+      "file": "sprites/cosmetics/walls/cabin_windows_wallpaper.webp"
+    },
+    {
+      "id": "celestial_print",
+      "name": "Celestial Print",
+      "file": "sprites/cosmetics/walls/celestial_print.webp"
+    },
+    {
+      "id": "chess_wall",
+      "name": "Chess Wall",
+      "file": "sprites/cosmetics/walls/chess_wall.webp"
+    },
+    {
+      "id": "chicks_print",
+      "name": "Chicks Print",
+      "file": "sprites/cosmetics/walls/chicks_print.webp"
+    },
+    {
+      "id": "chile_de_mayo_mild_wallpaper",
+      "name": "Chile de Mayo (mild) Wallpaper",
+      "file": "sprites/cosmetics/walls/chile_de_mayo_mild_wallpaper.webp"
+    },
+    {
+      "id": "chile_de_mayo_wallpaper",
+      "name": "Chile de Mayo Wallpaper",
+      "file": "sprites/cosmetics/walls/chile_de_mayo_wallpaper.webp"
+    },
+    {
+      "id": "circus_tent_wallpaper",
+      "name": "Circus Tent Wallpaper",
+      "file": "sprites/cosmetics/walls/circus_tent_wallpaper.webp"
+    },
+    {
+      "id": "city_skyline_wallpaper",
+      "name": "City Skyline Wallpaper",
+      "file": "sprites/cosmetics/walls/city_skyline_wallpaper.webp"
+    },
+    {
+      "id": "cobwebbed_wallpaper",
+      "name": "Cobwebbed Wallpaper",
+      "file": "sprites/cosmetics/walls/cobwebbed_wallpaper.webp"
+    },
+    {
+      "id": "crushtacean_print",
+      "name": "Crushtacean Print",
+      "file": "sprites/cosmetics/walls/crushtacean_print.webp"
+    },
+    {
+      "id": "cupid_fresco_wallpaper",
+      "name": "Cupid Fresco Wallpaper",
+      "file": "sprites/cosmetics/walls/cupid_fresco_wallpaper.webp"
+    },
+    {
+      "id": "cyclops_print",
+      "name": "Cyclops Print",
+      "file": "sprites/cosmetics/walls/cyclops_print.webp"
+    },
+    {
+      "id": "dark_toadstool_wallpaper",
+      "name": "Dark Toadstool Wallpaper",
+      "file": "sprites/cosmetics/walls/dark_toadstool_wallpaper.webp"
+    },
+    {
+      "id": "dawn_kitties_wallpaper",
+      "name": "Dawn Kitties Wallpaper",
+      "file": "sprites/cosmetics/walls/dawn_kitties_wallpaper.webp"
+    },
+    {
+      "id": "dawn_pumpkins_wallpaper",
+      "name": "Dawn Pumpkins Wallpaper",
+      "file": "sprites/cosmetics/walls/dawn_pumpkins_wallpaper.webp"
+    },
+    {
+      "id": "desert_rose_wallpaper",
+      "name": "Desert Rose Wallpaper",
+      "file": "sprites/cosmetics/walls/desert_rose_wallpaper.webp"
+    },
+    {
+      "id": "diamond_pattern_wallpaper",
+      "name": "Diamond Pattern Wallpaper",
+      "file": "sprites/cosmetics/walls/diamond_pattern_wallpaper.webp"
+    },
+    {
+      "id": "dreamy_wallpaper",
+      "name": "Dreamy Wallpaper",
+      "file": "sprites/cosmetics/walls/dreamy_wallpaper.webp"
+    },
+    {
+      "id": "drippin_delicious_wallpaper",
+      "name": "Drippin' Delicious Wallpaper",
+      "file": "sprites/cosmetics/walls/drippin_delicious_wallpaper.webp"
+    },
+    {
+      "id": "dusk_batkin_wallpaper",
+      "name": "Dusk Batkin Wallpaper",
+      "file": "sprites/cosmetics/walls/dusk_batkin_wallpaper.webp"
+    },
+    {
+      "id": "dusk_bats_wallpaper",
+      "name": "Dusk Bats Wallpaper",
+      "file": "sprites/cosmetics/walls/dusk_bats_wallpaper.webp"
+    },
+    {
+      "id": "dusk_kitties_wallpaper",
+      "name": "Dusk Kitties Wallpaper",
+      "file": "sprites/cosmetics/walls/dusk_kitties_wallpaper.webp"
+    },
+    {
+      "id": "dusk_pumpkins_wallpaper",
+      "name": "Dusk Pumpkins Wallpaper",
+      "file": "sprites/cosmetics/walls/dusk_pumpkins_wallpaper.webp"
+    },
+    {
+      "id": "dustbowl_horizon_wallpaper",
+      "name": "Dustbowl Horizon Wallpaper",
+      "file": "sprites/cosmetics/walls/dustbowl_horizon_wallpaper.webp"
+    },
+    {
+      "id": "easter_eggs_wallpaper",
+      "name": "Easter Eggs Wallpaper",
+      "file": "sprites/cosmetics/walls/easter_eggs_wallpaper.webp"
+    },
+    {
+      "id": "easter_ribbons_wallpaper",
+      "name": "Easter Ribbons Wallpaper",
+      "file": "sprites/cosmetics/walls/easter_ribbons_wallpaper.webp"
+    },
+    {
+      "id": "elegant_spring_print",
+      "name": "Elegant Spring Print",
+      "file": "sprites/cosmetics/walls/elegant_spring_print.webp"
+    },
+    {
+      "id": "faded_brick_wallpaper",
+      "name": "Faded Brick Wallpaper",
+      "file": "sprites/cosmetics/walls/faded_brick_wallpaper.webp"
+    },
+    {
+      "id": "fairy_print_wallpaper",
+      "name": "Fairy Print Wallpaper",
+      "file": "sprites/cosmetics/walls/fairy_print_wallpaper.webp"
+    },
+    {
+      "id": "feathers_wind_wallpaper",
+      "name": "Feathers Wind Wallpaper",
+      "file": "sprites/cosmetics/walls/feathers_wind_wallpaper.webp"
+    },
+    {
+      "id": "feathery_print_wallpaper",
+      "name": "Feathery Print Wallpaper",
+      "file": "sprites/cosmetics/walls/feathery_print_wallpaper.webp"
+    },
+    {
+      "id": "festive_cabin_lights_wallpaper",
+      "name": "Festive Cabin Lights Wallpaper",
+      "file": "sprites/cosmetics/walls/festive_cabin_lights_wallpaper.webp"
+    },
+    {
+      "id": "fire_lord_s_wall",
+      "name": "Fire Lord's Wall",
+      "file": "sprites/cosmetics/walls/fire_lord_s_wall.webp"
+    },
+    {
+      "id": "fishy_trophy_wallpaper",
+      "name": "Fishy Trophy Wallpaper",
+      "file": "sprites/cosmetics/walls/fishy_trophy_wallpaper.webp"
+    },
+    {
+      "id": "folk_art_print",
+      "name": "Folk Art Print",
+      "file": "sprites/cosmetics/walls/folk_art_print.webp"
+    },
+    {
+      "id": "fortunate_print",
+      "name": "Fortunate Print",
+      "file": "sprites/cosmetics/walls/fortunate_print.webp"
+    },
+    {
+      "id": "fossilized_wallpaper",
+      "name": "Fossilized Wallpaper",
+      "file": "sprites/cosmetics/walls/fossilized_wallpaper.webp"
+    },
+    {
+      "id": "fresco_de_mayo_wallpaper",
+      "name": "Fresco de Mayo Wallpaper",
+      "file": "sprites/cosmetics/walls/fresco_de_mayo_wallpaper.webp"
+    },
+    {
+      "id": "frog_pals_wallpaper",
+      "name": "Frog Pals Wallpaper",
+      "file": "sprites/cosmetics/walls/frog_pals_wallpaper.webp"
+    },
+    {
+      "id": "fruity_print",
+      "name": "Fruity Print",
+      "file": "sprites/cosmetics/walls/fruity_print.webp"
+    },
+    {
+      "id": "gaia_s_fresco_wallpaper",
+      "name": "Gaia's Fresco Wallpaper",
+      "file": "sprites/cosmetics/walls/gaia_s_fresco_wallpaper.webp"
+    },
+    {
+      "id": "gift-wrapped_wallpaper",
+      "name": "Gift-Wrapped Wallpaper",
+      "file": "sprites/cosmetics/walls/gift-wrapped_wallpaper.webp"
+    },
+    {
+      "id": "gold_mistletoe_wallpaper",
+      "name": "Gold Mistletoe Wallpaper",
+      "file": "sprites/cosmetics/walls/gold_mistletoe_wallpaper.webp"
+    },
+    {
+      "id": "golden_fungi_wallpaper",
+      "name": "Golden Fungi Wallpaper",
+      "file": "sprites/cosmetics/walls/golden_fungi_wallpaper.webp"
+    },
+    {
+      "id": "golden_knot_wallpaper",
+      "name": "Golden Knot Wallpaper",
+      "file": "sprites/cosmetics/walls/golden_knot_wallpaper.webp"
+    },
+    {
+      "id": "green_kitties_wallpaper",
+      "name": "Green Kitties Wallpaper",
+      "file": "sprites/cosmetics/walls/green_kitties_wallpaper.webp"
+    },
+    {
+      "id": "green_lucky_mouse_wallpaper",
+      "name": "Green Lucky Mouse Wallpaper",
+      "file": "sprites/cosmetics/walls/green_lucky_mouse_wallpaper.webp"
+    },
+    {
+      "id": "hanami_scenery_wallpaper",
+      "name": "Hanami Scenery Wallpaper",
+      "file": "sprites/cosmetics/walls/hanami_scenery_wallpaper.webp"
+    },
+    {
+      "id": "happy_yeti_wallpaper",
+      "name": "Happy Yeti Wallpaper",
+      "file": "sprites/cosmetics/walls/happy_yeti_wallpaper.webp"
+    },
+    {
+      "id": "harpy_flock_wallpaper",
+      "name": "Harpy Flock Wallpaper",
+      "file": "sprites/cosmetics/walls/harpy_flock_wallpaper.webp"
+    },
+    {
+      "id": "haunted_fence_wallpaper",
+      "name": "Haunted Fence Wallpaper",
+      "file": "sprites/cosmetics/walls/haunted_fence_wallpaper.webp"
+    },
+    {
+      "id": "hieroglyph_wallpaper",
+      "name": "Hieroglyph Wallpaper",
+      "file": "sprites/cosmetics/walls/hieroglyph_wallpaper.webp"
+    },
+    {
+      "id": "huipil_style_wallpaper",
+      "name": "Huipil Style Wallpaper",
+      "file": "sprites/cosmetics/walls/huipil_style_wallpaper.webp"
+    },
+    {
+      "id": "hunting_bamham_wallpaper",
+      "name": "Hunting Bamham Wallpaper",
+      "file": "sprites/cosmetics/walls/hunting_bamham_wallpaper.webp"
+    },
+    {
+      "id": "hunting_boar_wallpaper",
+      "name": "Hunting Boar Wallpaper",
+      "file": "sprites/cosmetics/walls/hunting_boar_wallpaper.webp"
+    },
+    {
+      "id": "ice_queen_s_palace_wallpaper",
+      "name": "Ice Queen's Palace Wallpaper",
+      "file": "sprites/cosmetics/walls/ice_queen_s_palace_wallpaper.webp"
+    },
+    {
+      "id": "jingle_bells_wallpaper",
+      "name": "Jingle Bells Wallpaper",
+      "file": "sprites/cosmetics/walls/jingle_bells_wallpaper.webp"
+    },
+    {
+      "id": "jolly_print_wallpaper",
+      "name": "Jolly Print Wallpaper",
+      "file": "sprites/cosmetics/walls/jolly_print_wallpaper.webp"
+    },
+    {
+      "id": "jurassic_print_wallpaper",
+      "name": "Jurassic Print Wallpaper",
+      "file": "sprites/cosmetics/walls/jurassic_print_wallpaper.webp"
+    },
+    {
+      "id": "kern_s_jewel_wallpaper",
+      "name": "Kern's Jewel Wallpaper",
+      "file": "sprites/cosmetics/walls/kern_s_jewel_wallpaper.webp"
+    },
+    {
+      "id": "lavender_lucky_mouse_wallpaper",
+      "name": "Lavender Lucky Mouse Wallpaper",
+      "file": "sprites/cosmetics/walls/lavender_lucky_mouse_wallpaper.webp"
+    },
+    {
+      "id": "left_viewport_wallpaper",
+      "name": "Left Viewport Wallpaper",
+      "file": "sprites/cosmetics/walls/left_viewport_wallpaper.webp"
+    },
+    {
+      "id": "lotus_garden_wallpaper",
+      "name": "Lotus Garden Wallpaper",
+      "file": "sprites/cosmetics/walls/lotus_garden_wallpaper.webp"
+    },
+    {
+      "id": "lotus_impressions_wallpaper",
+      "name": "Lotus Impressions Wallpaper",
+      "file": "sprites/cosmetics/walls/lotus_impressions_wallpaper.webp"
+    },
+    {
+      "id": "lovely_chocolate_wallpaper",
+      "name": "Lovely Chocolate Wallpaper",
+      "file": "sprites/cosmetics/walls/lovely_chocolate_wallpaper.webp"
+    },
+    {
+      "id": "lovely_print",
+      "name": "Lovely Print",
+      "file": "sprites/cosmetics/walls/lovely_print.webp"
+    },
+    {
+      "id": "lucky_clover_wallpaper",
+      "name": "Lucky Clover Wallpaper",
+      "file": "sprites/cosmetics/walls/lucky_clover_wallpaper.webp"
+    },
+    {
+      "id": "lucky_coin_wallpaper",
+      "name": "Lucky Coin Wallpaper",
+      "file": "sprites/cosmetics/walls/lucky_coin_wallpaper.webp"
+    },
+    {
+      "id": "lunar_new_year_wallpaper",
+      "name": "Lunar New Year Wallpaper",
+      "file": "sprites/cosmetics/walls/lunar_new_year_wallpaper.webp"
+    },
+    {
+      "id": "luxurious_wall",
+      "name": "Luxurious Wall",
+      "file": "sprites/cosmetics/walls/luxurious_wall.webp"
+    },
+    {
+      "id": "majestic_hallway_wallpaper",
+      "name": "Majestic Hallway Wallpaper",
+      "file": "sprites/cosmetics/walls/majestic_hallway_wallpaper.webp"
+    },
+    {
+      "id": "maracas_de_mayo_wallpaper",
+      "name": "Maracas de Mayo Wallpaper",
+      "file": "sprites/cosmetics/walls/maracas_de_mayo_wallpaper.webp"
+    },
+    {
+      "id": "maribel_s_lattice_wallpaper",
+      "name": "Maribel's Lattice Wallpaper",
+      "file": "sprites/cosmetics/walls/maribel_s_lattice_wallpaper.webp"
+    },
+    {
+      "id": "mechtalic_panel",
+      "name": "Mechtalic Panel",
+      "file": "sprites/cosmetics/walls/mechtalic_panel.webp"
+    },
+    {
+      "id": "milesian_motif_wallpaper",
+      "name": "Milesian Motif Wallpaper",
+      "file": "sprites/cosmetics/walls/milesian_motif_wallpaper.webp"
+    },
+    {
+      "id": "mister_rabbit_wallpaper",
+      "name": "Mister Rabbit Wallpaper",
+      "file": "sprites/cosmetics/walls/mister_rabbit_wallpaper.webp"
+    },
+    {
+      "id": "mistletoe_wreath_wallpaper",
+      "name": "Mistletoe Wreath Wallpaper",
+      "file": "sprites/cosmetics/walls/mistletoe_wreath_wallpaper.webp"
+    },
+    {
+      "id": "moonlight_usagi_wallpaper",
+      "name": "Moonlight Usagi Wallpaper",
+      "file": "sprites/cosmetics/walls/moonlight_usagi_wallpaper.webp"
+    },
+    {
+      "id": "mundra_s_print",
+      "name": "Mundra's Print",
+      "file": "sprites/cosmetics/walls/mundra_s_print.webp"
+    },
+    {
+      "id": "mushgoon_print",
+      "name": "Mushgoon Print",
+      "file": "sprites/cosmetics/walls/mushgoon_print.webp"
+    },
+    {
+      "id": "mushroom_green_wallpaper",
+      "name": "Mushroom Green Wallpaper",
+      "file": "sprites/cosmetics/walls/mushroom_green_wallpaper.webp"
+    },
+    {
+      "id": "musical_wall",
+      "name": "Musical Wall",
+      "file": "sprites/cosmetics/walls/musical_wall.webp"
+    },
+    {
+      "id": "navy_panel",
+      "name": "Navy Panel",
+      "file": "sprites/cosmetics/walls/navy_panel.webp"
+    },
+    {
+      "id": "new_year_fireworks_wallpaper",
+      "name": "New Year Fireworks Wallpaper",
+      "file": "sprites/cosmetics/walls/new_year_fireworks_wallpaper.webp"
+    },
+    {
+      "id": "nine_seas_wallpaper",
+      "name": "Nine Seas Wallpaper",
+      "file": "sprites/cosmetics/walls/nine_seas_wallpaper.webp"
+    },
+    {
+      "id": "office_wall",
+      "name": "Office Wall",
+      "file": "sprites/cosmetics/walls/office_wall.webp"
+    },
+    {
+      "id": "opulent_wall",
+      "name": "Opulent Wall",
+      "file": "sprites/cosmetics/walls/opulent_wall.webp"
+    },
+    {
+      "id": "orchid_print",
+      "name": "Orchid Print",
+      "file": "sprites/cosmetics/walls/orchid_print.webp"
+    },
+    {
+      "id": "ornaments_wallpaper",
+      "name": "Ornaments Wallpaper",
+      "file": "sprites/cosmetics/walls/ornaments_wallpaper.webp"
+    },
+    {
+      "id": "ornate_emerald_wallpaper",
+      "name": "Ornate Emerald Wallpaper",
+      "file": "sprites/cosmetics/walls/ornate_emerald_wallpaper.webp"
+    },
+    {
+      "id": "ornate_sapphire_wallpaper",
+      "name": "Ornate Sapphire Wallpaper",
+      "file": "sprites/cosmetics/walls/ornate_sapphire_wallpaper.webp"
+    },
+    {
+      "id": "pagoda_wallpaper",
+      "name": "Pagoda Wallpaper",
+      "file": "sprites/cosmetics/walls/pagoda_wallpaper.webp"
+    },
+    {
+      "id": "pale_stripes_wallpaper",
+      "name": "Pale Stripes Wallpaper",
+      "file": "sprites/cosmetics/walls/pale_stripes_wallpaper.webp"
+    },
+    {
+      "id": "paper_de_mayo_wallpaper",
+      "name": "Paper de Mayo Wallpaper",
+      "file": "sprites/cosmetics/walls/paper_de_mayo_wallpaper.webp"
+    },
+    {
+      "id": "peppermint_column_wallpaper",
+      "name": "Peppermint Column Wallpaper",
+      "file": "sprites/cosmetics/walls/peppermint_column_wallpaper.webp"
+    },
+    {
+      "id": "platinum_hallways_wallpaper",
+      "name": "Platinum Hallways Wallpaper",
+      "file": "sprites/cosmetics/walls/platinum_hallways_wallpaper.webp"
+    },
+    {
+      "id": "potion-plated_wall",
+      "name": "Potion-Plated Wall",
+      "file": "sprites/cosmetics/walls/potion-plated_wall.webp"
+    },
+    {
+      "id": "prickly_print_wallpaper",
+      "name": "Prickly Print Wallpaper",
+      "file": "sprites/cosmetics/walls/prickly_print_wallpaper.webp"
+    },
+    {
+      "id": "prized_bone_wallpaper",
+      "name": "Prized Bone Wallpaper",
+      "file": "sprites/cosmetics/walls/prized_bone_wallpaper.webp"
+    },
+    {
+      "id": "purple_lucky_mouse_wallpaper",
+      "name": "Purple Lucky Mouse Wallpaper",
+      "file": "sprites/cosmetics/walls/purple_lucky_mouse_wallpaper.webp"
+    },
+    {
+      "id": "quillwork_print",
+      "name": "Quillwork Print",
+      "file": "sprites/cosmetics/walls/quillwork_print.webp"
+    },
+    {
+      "id": "red_lanterns_wallpaper",
+      "name": "Red Lanterns Wallpaper",
+      "file": "sprites/cosmetics/walls/red_lanterns_wallpaper.webp"
+    },
+    {
+      "id": "red_lucky_mouse_wallpaper",
+      "name": "Red Lucky Mouse Wallpaper",
+      "file": "sprites/cosmetics/walls/red_lucky_mouse_wallpaper.webp"
+    },
+    {
+      "id": "regal_wall_wallpaper",
+      "name": "Regal Wall Wallpaper",
+      "file": "sprites/cosmetics/walls/regal_wall_wallpaper.webp"
+    },
+    {
+      "id": "right_viewport_wallpaper",
+      "name": "Right Viewport Wallpaper",
+      "file": "sprites/cosmetics/walls/right_viewport_wallpaper.webp"
+    },
+    {
+      "id": "rose_garden_wallpaper",
+      "name": "Rose Garden Wallpaper",
+      "file": "sprites/cosmetics/walls/rose_garden_wallpaper.webp"
+    },
+    {
+      "id": "sandcastle_wall_wallpaper",
+      "name": "Sandcastle Wall Wallpaper",
+      "file": "sprites/cosmetics/walls/sandcastle_wall_wallpaper.webp"
+    },
+    {
+      "id": "seeping_syrup_wallpaper",
+      "name": "Seeping Syrup Wallpaper",
+      "file": "sprites/cosmetics/walls/seeping_syrup_wallpaper.webp"
+    },
+    {
+      "id": "shoji_wall",
+      "name": "Shoji Wall",
+      "file": "sprites/cosmetics/walls/shoji_wall.webp"
+    },
+    {
+      "id": "sliding_door_wallpaper",
+      "name": "Sliding Door Wallpaper",
+      "file": "sprites/cosmetics/walls/sliding_door_wallpaper.webp"
+    },
+    {
+      "id": "snowfall_wallpaper",
+      "name": "Snowfall Wallpaper",
+      "file": "sprites/cosmetics/walls/snowfall_wallpaper.webp"
+    },
+    {
+      "id": "snowy_canopy_wallpaper",
+      "name": "Snowy Canopy Wallpaper",
+      "file": "sprites/cosmetics/walls/snowy_canopy_wallpaper.webp"
+    },
+    {
+      "id": "sondra_s_print",
+      "name": "Sondra's Print",
+      "file": "sprites/cosmetics/walls/sondra_s_print.webp"
+    },
+    {
+      "id": "soulbound_drapes_wallpaper",
+      "name": "Soulbound Drapes Wallpaper",
+      "file": "sprites/cosmetics/walls/soulbound_drapes_wallpaper.webp"
+    },
+    {
+      "id": "standard_wallpaper",
+      "name": "Standard Wallpaper",
+      "file": "sprites/cosmetics/walls/standard_wallpaper.webp"
+    },
+    {
+      "id": "star_spangled_large_wallpaper",
+      "name": "Star Spangled (Large) Wallpaper",
+      "file": "sprites/cosmetics/walls/star_spangled_large_wallpaper.webp"
+    },
+    {
+      "id": "star_spangled_wavy_wallpaper",
+      "name": "Star Spangled (Wavy) Wallpaper",
+      "file": "sprites/cosmetics/walls/star_spangled_wavy_wallpaper.webp"
+    },
+    {
+      "id": "star_spangled_wallpaper",
+      "name": "Star Spangled Wallpaper",
+      "file": "sprites/cosmetics/walls/star_spangled_wallpaper.webp"
+    },
+    {
+      "id": "strings_of_passion_wallpaper",
+      "name": "Strings of Passion Wallpaper",
+      "file": "sprites/cosmetics/walls/strings_of_passion_wallpaper.webp"
+    },
+    {
+      "id": "striped_stars_wallpaper",
+      "name": "Striped Stars Wallpaper",
+      "file": "sprites/cosmetics/walls/striped_stars_wallpaper.webp"
+    },
+    {
+      "id": "stucco_walls",
+      "name": "Stucco Walls",
+      "file": "sprites/cosmetics/walls/stucco_walls.webp"
+    },
+    {
+      "id": "sultan_s_finest_wallpaper",
+      "name": "Sultan's Finest Wallpaper",
+      "file": "sprites/cosmetics/walls/sultan_s_finest_wallpaper.webp"
+    },
+    {
+      "id": "tenebrous_tapestries_wallpaper",
+      "name": "Tenebrous Tapestries Wallpaper",
+      "file": "sprites/cosmetics/walls/tenebrous_tapestries_wallpaper.webp"
+    },
+    {
+      "id": "the_last_night_wallpaper",
+      "name": "The Last Night Wallpaper",
+      "file": "sprites/cosmetics/walls/the_last_night_wallpaper.webp"
+    },
+    {
+      "id": "titan-plated_wall",
+      "name": "Titan-Plated Wall",
+      "file": "sprites/cosmetics/walls/titan-plated_wall.webp"
+    },
+    {
+      "id": "toady_print",
+      "name": "Toady Print",
+      "file": "sprites/cosmetics/walls/toady_print.webp"
+    },
+    {
+      "id": "treble_wall",
+      "name": "Treble Wall",
+      "file": "sprites/cosmetics/walls/treble_wall.webp"
+    },
+    {
+      "id": "troublin_print",
+      "name": "Troublin Print",
+      "file": "sprites/cosmetics/walls/troublin_print.webp"
+    },
+    {
+      "id": "true_north_wall",
+      "name": "True North Wall",
+      "file": "sprites/cosmetics/walls/true_north_wall.webp"
+    },
+    {
+      "id": "turkey_of_plenty_wallpaper",
+      "name": "Turkey of Plenty Wallpaper",
+      "file": "sprites/cosmetics/walls/turkey_of_plenty_wallpaper.webp"
+    },
+    {
+      "id": "tweety_trees_wallpaper",
+      "name": "Tweety Trees Wallpaper",
+      "file": "sprites/cosmetics/walls/tweety_trees_wallpaper.webp"
+    },
+    {
+      "id": "twilight_forest_wallpaper",
+      "name": "Twilight Forest Wallpaper",
+      "file": "sprites/cosmetics/walls/twilight_forest_wallpaper.webp"
+    },
+    {
+      "id": "tyrant_print_wallpaper",
+      "name": "Tyrant Print Wallpaper",
+      "file": "sprites/cosmetics/walls/tyrant_print_wallpaper.webp"
+    },
+    {
+      "id": "victorian_flowers_wallpaper",
+      "name": "Victorian Flowers Wallpaper",
+      "file": "sprites/cosmetics/walls/victorian_flowers_wallpaper.webp"
+    },
+    {
+      "id": "viewport_wallpaper",
+      "name": "Viewport Wallpaper",
+      "file": "sprites/cosmetics/walls/viewport_wallpaper.webp"
+    },
+    {
+      "id": "wallace_workshop_wallpaper",
+      "name": "Wallace Workshop Wallpaper",
+      "file": "sprites/cosmetics/walls/wallace_workshop_wallpaper.webp"
+    },
+    {
+      "id": "warding_fresco_wallpaper",
+      "name": "Warding Fresco Wallpaper",
+      "file": "sprites/cosmetics/walls/warding_fresco_wallpaper.webp"
+    },
+    {
+      "id": "wiccan_moon_wallpaper",
+      "name": "Wiccan Moon Wallpaper",
+      "file": "sprites/cosmetics/walls/wiccan_moon_wallpaper.webp"
+    },
+    {
+      "id": "wiccan_nights_wallpaper",
+      "name": "Wiccan Nights Wallpaper",
+      "file": "sprites/cosmetics/walls/wiccan_nights_wallpaper.webp"
+    },
+    {
+      "id": "wildwoods_wallpaper",
+      "name": "Wildwoods Wallpaper",
+      "file": "sprites/cosmetics/walls/wildwoods_wallpaper.webp"
+    },
+    {
+      "id": "winter_cabin_veranda_wallpaper",
+      "name": "Winter Cabin Veranda Wallpaper",
+      "file": "sprites/cosmetics/walls/winter_cabin_veranda_wallpaper.webp"
+    },
+    {
+      "id": "wood_panel",
+      "name": "Wood Panel",
+      "file": "sprites/cosmetics/walls/wood_panel.webp"
+    },
+    {
+      "id": "wooden_rose_garden_wallpaper",
+      "name": "Wooden Rose Garden Wallpaper",
+      "file": "sprites/cosmetics/walls/wooden_rose_garden_wallpaper.webp"
+    },
+    {
+      "id": "year_of_the_bunny_wallpaper",
+      "name": "Year of the Bunny Wallpaper",
+      "file": "sprites/cosmetics/walls/year_of_the_bunny_wallpaper.webp"
+    },
+    {
+      "id": "year_of_the_tiger_wallpaper",
+      "name": "Year of the Tiger Wallpaper",
+      "file": "sprites/cosmetics/walls/year_of_the_tiger_wallpaper.webp"
+    },
+    {
+      "id": "yellow_kitties_wallpaper",
+      "name": "Yellow Kitties Wallpaper",
+      "file": "sprites/cosmetics/walls/yellow_kitties_wallpaper.webp"
+    }
+  ]
+}

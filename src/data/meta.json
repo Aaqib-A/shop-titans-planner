@@ -1,0 +1,18 @@
+{
+  "syncedAt": "2026-10-21T13:59:56.447Z",
+  "sources": {
+    "official": "https://playshoptitans.com/furniture",
+    "sheet": "https://docs.google.com/spreadsheets/d/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/",
+    "wiki": "https://shop-titans.fandom.com/api.php"
+  },
+  "counts": {
+    "furniture": 902,
+    "families": 820,
+    "sprites": 862,
+    "levelFamilies": 21,
+    "shopExpansions": 29,
+    "basementExpansions": 23,
+    "floors": 172,
+    "walls": 165
+  }
+}

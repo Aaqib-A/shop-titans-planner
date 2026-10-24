@@ -1,0 +1,451 @@
+{
+  "shop": [
+    {
+      "index": 1,
+      "type": "size",
+      "levelRequired": null,
+      "capacity": 8,
+      "gold": 0,
+      "gems": 0,
+      "time": null
+    },
+    {
+      "index": 2,
+      "type": "size",
+      "levelRequired": null,
+      "capacity": 16,
+      "gold": 3000,
+      "gems": 50,
+      "time": "15 minutes"
+    },
+    {
+      "index": 3,
+      "type": "size",
+      "levelRequired": "Lv. 15",
+      "capacity": 24,
+      "gold": 30000,
+      "gems": 250,
+      "time": "16 hours"
+    },
+    {
+      "index": 4,
+      "type": "size",
+      "levelRequired": "Lv. 30",
+      "capacity": 32,
+      "gold": 1000000,
+      "gems": 500,
+      "time": "20 hours"
+    },
+    {
+      "index": 5,
+      "type": "size",
+      "levelRequired": "Lv. 40",
+      "capacity": 40,
+      "gold": 10000000,
+      "gems": 1000,
+      "time": "1 day"
+    },
+    {
+      "index": 6,
+      "type": "size",
+      "levelRequired": "Lv. 50",
+      "capacity": 48,
+      "gold": 50000000,
+      "gems": 2000,
+      "time": "2 days"
+    },
+    {
+      "index": 7,
+      "type": "size",
+      "levelRequired": "Lv. 60",
+      "capacity": 56,
+      "gold": 200000000,
+      "gems": 3000,
+      "time": "3 days"
+    },
+    {
+      "index": 8,
+      "type": "size",
+      "levelRequired": "Lv. 75",
+      "capacity": 64,
+      "gold": 500000000,
+      "gems": 4000,
+      "time": "5 days"
+    },
+    {
+      "index": 9,
+      "type": "size",
+      "levelRequired": "Lv. 80",
+      "capacity": 72,
+      "gold": 1000000000,
+      "gems": 5000,
+      "time": "7 days"
+    },
+    {
+      "index": 10,
+      "type": "furniture",
+      "levelRequired": "Lv. 82",
+      "capacity": 73,
+      "gold": 1250000000,
+      "gems": 1000,
+      "time": null
+    },
+    {
+      "index": 11,
+      "type": "furniture",
+      "levelRequired": "Lv. 84",
+      "capacity": 74,
+      "gold": 1500000000,
+      "gems": 1250,
+      "time": null
+    },
+    {
+      "index": 12,
+      "type": "furniture",
+      "levelRequired": "Lv. 86",
+      "capacity": 75,
+      "gold": 1750000000,
+      "gems": 1500,
+      "time": null
+    },
+    {
+      "index": 13,
+      "type": "furniture",
+      "levelRequired": "Lv. 88",
+      "capacity": 76,
+      "gold": 2000000000,
+      "gems": 1750,
+      "time": null
+    },
+    {
+      "index": 14,
+      "type": "furniture",
+      "levelRequired": "Lv. 90",
+      "capacity": 77,
+      "gold": 2500000000,
+      "gems": 2000,
+      "time": null
+    },
+    {
+      "index": 15,
+      "type": "furniture",
+      "levelRequired": "Lv. 91",
+      "capacity": 78,
+      "gold": 3000000000,
+      "gems": 2250,
+      "time": null
+    },
+    {
+      "index": 16,
+      "type": "furniture",
+      "levelRequired": "Lv. 92",
+      "capacity": 79,
+      "gold": 3500000000,
+      "gems": 2500,
+      "time": null
+    },
+    {
+      "index": 17,
+      "type": "furniture",
+      "levelRequired": "Lv. 93",
+      "capacity": 80,
+      "gold": 4000000000,
+      "gems": 3000,
+      "time": null
+    },
+    {
+      "index": 18,
+      "type": "furniture",
+      "levelRequired": "Lv. 94",
+      "capacity": 81,
+      "gold": 5000000000,
+      "gems": 3500,
+      "time": null
+    },
+    {
+      "index": 19,
+      "type": "furniture",
+      "levelRequired": "Lv. 95",
+      "capacity": 82,
+      "gold": 7500000000,
+      "gems": 4000,
+      "time": null
+    },
+    {
+      "index": 20,
+      "type": "furniture",
+      "levelRequired": "Lv. 96",
+      "capacity": 83,
+      "gold": 10000000000,
+      "gems": 4500,
+      "time": null
+    },
+    {
+      "index": 21,
+      "type": "furniture",
+      "levelRequired": "Lv. 97",
+      "capacity": 84,
+      "gold": 15000000000,
+      "gems": 5000,
+      "time": null
+    },
+    {
+      "index": 22,
+      "type": "furniture",
+      "levelRequired": "Lv. 98",
+      "capacity": 85,
+      "gold": 20000000000,
+      "gems": 5500,
+      "time": null
+    },
+    {
+      "index": 23,
+      "type": "furniture",
+      "levelRequired": "Lv. 99",
+      "capacity": 86,
+      "gold": 25000000000,
+      "gems": 6000,
+      "time": null
+    },
+    {
+      "index": 24,
+      "type": "furniture",
+      "levelRequired": "Loop 1, Lv. 1",
+      "capacity": 87,
+      "gold": 30000000000,
+      "gems": 6000,
+      "time": null
+    },
+    {
+      "index": 25,
+      "type": "furniture",
+      "levelRequired": "Loop 1, Lv. 50",
+      "capacity": 88,
+      "gold": 40000000000,
+      "gems": 6000,
+      "time": null
+    },
+    {
+      "index": 26,
+      "type": "furniture",
+      "levelRequired": "Loop 1, Lv. 60",
+      "capacity": 89,
+      "gold": 50000000000,
+      "gems": 6000,
+      "time": null
+    },
+    {
+      "index": 27,
+      "type": "furniture",
+      "levelRequired": "Loop 1, Lv. 70",
+      "capacity": 90,
+      "gold": 65000000000,
+      "gems": 6000,
+      "time": null
+    },
+    {
+      "index": 28,
+      "type": "furniture",
+      "levelRequired": "Loop 1, Lv. 80",
+      "capacity": 91,
+      "gold": 80000000000,
+      "gems": 6000,
+      "time": null
+    },
+    {
+      "index": 29,
+      "type": "furniture",
+      "levelRequired": "Loop 2, Lv. 1",
+      "capacity": 92,
+      "gold": 100000000000,
+      "gems": 6000,
+      "time": null
+    }
+  ],
+  "basement": [
+    {
+      "index": 1,
+      "levelRequired": 40,
+      "capacity": 4,
+      "gold": 0,
+      "gems": 0,
+      "time": null
+    },
+    {
+      "index": 2,
+      "levelRequired": 40,
+      "capacity": 8,
+      "gold": 7500000,
+      "gems": 125,
+      "time": "15 minutes"
+    },
+    {
+      "index": 3,
+      "levelRequired": 45,
+      "capacity": 12,
+      "gold": 12500000,
+      "gems": 175,
+      "time": "8 hours"
+    },
+    {
+      "index": 4,
+      "levelRequired": 50,
+      "capacity": 16,
+      "gold": 37500000,
+      "gems": 250,
+      "time": "16 hours"
+    },
+    {
+      "index": 5,
+      "levelRequired": 55,
+      "capacity": 20,
+      "gold": 50000000,
+      "gems": 300,
+      "time": "20 hours"
+    },
+    {
+      "index": 6,
+      "levelRequired": 60,
+      "capacity": 24,
+      "gold": 125000000,
+      "gems": 375,
+      "time": "1 day"
+    },
+    {
+      "index": 7,
+      "levelRequired": 64,
+      "capacity": 28,
+      "gold": 175000000,
+      "gems": 500,
+      "time": "1 day, 12 hours"
+    },
+    {
+      "index": 8,
+      "levelRequired": 68,
+      "capacity": 32,
+      "gold": 200000000,
+      "gems": 625,
+      "time": "2 days"
+    },
+    {
+      "index": 9,
+      "levelRequired": 72,
+      "capacity": 36,
+      "gold": 250000000,
+      "gems": 750,
+      "time": "2 days, 12 hours"
+    },
+    {
+      "index": 10,
+      "levelRequired": 75,
+      "capacity": 40,
+      "gold": 325000000,
+      "gems": 875,
+      "time": "3 days"
+    },
+    {
+      "index": 11,
+      "levelRequired": 78,
+      "capacity": 44,
+      "gold": 375000000,
+      "gems": 1000,
+      "time": "3 days, 12 hours"
+    },
+    {
+      "index": 12,
+      "levelRequired": 81,
+      "capacity": 48,
+      "gold": 500000000,
+      "gems": 1125,
+      "time": "4 days"
+    },
+    {
+      "index": 13,
+      "levelRequired": 84,
+      "capacity": 52,
+      "gold": 750000000,
+      "gems": 1250,
+      "time": "4 days, 12 hours"
+    },
+    {
+      "index": 14,
+      "levelRequired": 87,
+      "capacity": 56,
+      "gold": 1000000000,
+      "gems": 1375,
+      "time": "5 days"
+    },
+    {
+      "index": 15,
+      "levelRequired": 89,
+      "capacity": 60,
+      "gold": 1250000000,
+      "gems": 1500,
+      "time": "5 days, 20 hours"
+    },
+    {
+      "index": 16,
+      "levelRequired": 92,
+      "capacity": 64,
+      "gold": 1500000000,
+      "gems": 1750,
+      "time": "6 days, 16 hours"
+    },
+    {
+      "index": 17,
+      "levelRequired": 94,
+      "capacity": 68,
+      "gold": 1750000000,
+      "gems": 2000,
+      "time": "7 days, 2 hours"
+    },
+    {
+      "index": 18,
+      "levelRequired": 95,
+      "capacity": 72,
+      "gold": 2000000000,
+      "gems": 2250,
+      "time": "8 days, 8 hours"
+    },
+    {
+      "index": 19,
+      "levelRequired": 96,
+      "capacity": 76,
+      "gold": 2250000000,
+      "gems": 2500,
+      "time": "9 days, 14 hours"
+    },
+    {
+      "index": 20,
+      "levelRequired": 97,
+      "capacity": 80,
+      "gold": 2500000000,
+      "gems": 2750,
+      "time": "10 days, 20 hours"
+    },
+    {
+      "index": 21,
+      "levelRequired": 98,
+      "capacity": 84,
+      "gold": 2750000000,
+      "gems": 3000,
+      "time": "12 days, 12 hours"
+    },
+    {
+      "index": 22,
+      "levelRequired": 99,
+      "capacity": 88,
+      "gold": 3000000000,
+      "gems": 3250,
+      "time": "14 days, 14 hours"
+    },
+    {
+      "index": 23,
+      "levelRequired": 99,
+      "capacity": 92,
+      "gold": 3000000000,
+      "gems": 3250,
+      "time": "14 days, 14 hours"
+    }
+  ]
+}
